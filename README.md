@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fitriyadi
 - 👀 I’m interested in web development, data science, data mining
-- 🌱 I’m currently learning anything aboutjabascript and pythin
+- 🌱 I’m currently learning anything about javascript and python speciality in Machine Learning
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me in email : taufikfitriyadi27@gmail.com
 
